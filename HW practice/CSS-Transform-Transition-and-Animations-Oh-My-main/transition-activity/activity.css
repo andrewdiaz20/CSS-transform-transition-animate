@@ -1,0 +1,4 @@
+.transition:hover{
+    color: ghostwhite;
+    transition: color 2s;
+}
